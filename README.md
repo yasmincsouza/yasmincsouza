@@ -1,5 +1,5 @@
 ### print("Hello world")
-##### Sou desenvolvedora e atuo nas áreas de Back-End e Banco de Dados.
+##### Graduando em Ciência da Computação, desenvolvedora e atuo na área de Back-End e Banco de Dados.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincsouza&langs_count=8&layout=donut&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmincsouza&theme=tokyonight&hide_title=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
