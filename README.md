@@ -1,4 +1,4 @@
-## print("Hello world")
+## log.info("Hello world")
 <h4>Estudante de Ciência da Computação. Sou QA e Back-End. :)</h4>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincsouza&langs_count=8&layout=donut&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
